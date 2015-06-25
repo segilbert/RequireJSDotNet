@@ -10,4 +10,4 @@
 
 ##### Documentation and examples website http://requirejsnet.veritech.io/
 
-##### Add Support for custom Scripts/app and /lib folders
+##### Add Support for custom Scripts/app and /lib folders fff
